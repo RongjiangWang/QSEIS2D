@@ -1,4 +1,4 @@
-QSEIS2D - for quasi 2D structure model (only teleseismic applications)
+QSEIS2D - for quasi 2D structure model (only teleseismic body wave synthetics)
 
 For Windows user, the executable file is provided under folder "WindowsEXE". Linux user may compile the source codes with "gfortran" via a single command like, e.g.,
 
